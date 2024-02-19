@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! Welcome to my website, where I have tried to put my analytics journey in perspective. I am a data professional with 5+ years of experience, interested in working in the interesection of tech and social impact. I currently work as a Data Analytics Freelancer at [Upwork](https://www.upwork.com/freelancers/~0162236444b2794456?viewMode=1). 
+Hi! Welcome to my website, where I have tried to put my analytics journey in perspective. I am a data professional with 3+ years of experience, interested in working in the interesection of tech and social impact. I currently work as a Data Analytics Freelancer at [Upwork](https://www.upwork.com/freelancers/~0162236444b2794456?viewMode=1). 
 
 My most recent work was to make sense of sparsely colleced media data by the client over 2 years to inform their investment portfolio for the upcoming year. Overcoming this challenge of inadequate data, I was able to analyze [footfall data against the basket of digital media investments](https://github.com/detectorisk/Digital_media_affect_on_footfall/tree/main) made by the client to inform next year's investment portfolio. 
 
@@ -30,6 +30,7 @@ I am always looking for opportunities in industries where my work will create va
 Contact me at <b> kevin.kuriakose.official@gmail.com </b> if my profile is of interest to your business!
 
 Some of my Ongoing works include:<brr>
-<dd>-Exploring footfall data in Glasgow for business placement in the city</dd>
-<dd>-Evaluating consumer behaviour and digital media through mixed methods approaches</dd>
+<dd>-Exploring footfall data for business placement in Scotland cities</dd>
+<dd>-Evaluating consumer behaviour and digital media through mixed methods approaches like qualitative surveys, clustering and programmatic evaluations</dd>
+
 
